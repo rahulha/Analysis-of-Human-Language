@@ -1,0 +1,41 @@
+topic_taxonomy = {
+        "time chronology measurement":
+        {
+            "chonology": "today back future continue ago",
+            "day component": "october wednesday year september november", 
+            "time scale": "delay period quarter months week"
+        },
+        "product making":
+        {
+            "product manufacturing": "production produce build manufacture", 
+            "product categorization": "make model", 
+            "creation": "new become increase",
+            "introduction": "release launch"
+        },
+        "numeric sequence":
+        {
+            "number": "one two three",
+            "scales": "million billion", 
+            "sequential": "second first last next recent current"
+        },
+        "object transfer":
+        {
+            "object handover": "give provide sell push", 
+            "object arrangement": "set trade sales offer", 
+            "Object takeover": "get take use buy earn"
+        },
+        "Business company":
+        {
+            "Business name": "tsla tesla", 
+            "Business type": "company firm industry business",
+            "Business stakeholder": "CEO lead invester people world analysts", 
+            "Business stakes": "market share investment stock loss hold"
+        },
+        "Technology object manipulation":
+        {
+            "Device feature": "technology system", 
+            "components and energy": "electric battery power charge energy", 
+            "manipulation": "go start operate work move"
+        }
+} 
+
